@@ -1,16 +1,9 @@
 Como ativar o Node-js e abrir a página do index.js  
 
-O primeiro passo é abrir o terminal do seu linux e digitar o seguinte comando para ativação do Node-js:  
-
+O primeiro passo é abrir o terminal do seu linux e digitar os seguintes comando para ativação do Node-js:  
+"cd ~/Caminho_do_node_js/" (Para entrar na pasta onde está localizado o Node.js)
 "source ./nodejs-env/bin/activate " 
 
-Digite o seguinte comando para abrir o arquivo Index.js:
-
-"sudo nano index.js"
-
-Após isso copie e cole o código que esta fixado no arquivo index.js deste mesmo repositório
-
-Agora aperte as teclas (Control + o) para salvar e (Control + x) para sair
 
 Para finalizar é só você ativar o index.js com o seguinte código:
 
